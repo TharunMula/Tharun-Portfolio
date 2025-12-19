@@ -1,12 +1,5 @@
 # Tharun Mula – Data Analyst Portfolio
 
-📍 Leicester, UK  
-📧 mulatharun45@gmail.com | 📞 +44 7741 327292  
-🔗 [LinkedIn](http://www.linkedin.com/in/tharun-mula-data-anayst) | [GitHub](https://github.com/TharunMula)  
-🛂 Full Working Rights (UK) | 🚗 Provisional Driving Licence  
-
----
-
 ## About
 I am a **Data Analyst** with hands-on experience in **data analytics, business intelligence, and dashboard development**. I am a **Certified Tableau Data Analyst** with professional exposure gained through a data analytics internship at **Fortray Global Services Ltd**.
 

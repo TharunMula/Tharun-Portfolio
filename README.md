@@ -14,7 +14,7 @@ I have a strong technical foundation in **Python, SQL, Tableau, Excel, and Power
 
 This repository showcases my **projects, skills, and applied experience** in Data Analytics and Business Intelligence.
 
-📄 **CV:** Reference available on request
+📄 **CV:** [Reference available on request](https://github.com/TharunMula/Tharun-Portfolio/blob/main/Tharun-CV.pdf.pdf)
 
 ---
 

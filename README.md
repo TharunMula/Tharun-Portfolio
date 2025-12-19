@@ -1,7 +1,7 @@
 # Tharun Mula – Data Analyst Portfolio
 
 ## About
-I am a **Data Analyst** with hands-on experience in **data analytics, business intelligence, and dashboard development**. I am a **Certified Tableau Data Analyst** with professional exposure gained through a data analytics internship at **Fortray Global Services Ltd**.
+Hi, I'm Tharun Mula! I have a **Data Analyst** with hands-on experience in **data analytics, business intelligence, and dashboard development**. I am a **Certified Tableau Data Analyst** with professional exposure gained through a data analytics internship at **Fortray Global Services Ltd**.
 
 I have a strong technical foundation in **Python, SQL, Tableau, Excel, and Power BI**, supported by a background in **software development and enterprise applications**. My work focuses on transforming complex datasets into clear insights that support **data-driven decision-making**.
 

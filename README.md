@@ -19,21 +19,17 @@ This repository showcases my **projects, skills, and applied experience** in Dat
 
 ## Table of Contents
 
-About
+[About](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#about)
 
-Portfolio Projects
+[Experience](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Experience)
 
-Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
-R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
-Tableau---> go to Tableau..
-Power BI
+[Portfolio Projects](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Projects)
+
+[Education](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Education)
+
+[Certifications](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Training&Certifications)
+
+[Contact](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Contact)
 
 ## Skills
 

@@ -16,8 +16,9 @@ This repository showcases my **projects, skills, and applied experience** in Dat
 
 📄 My **CV:** in [pdf](https://github.com/TharunMula/Tharun-Portfolio/blob/main/Tharun-CV.pdf.pdf).
 
----
-Table of Contents
+
+## Table of Contents
+
 About
 
 Portfolio Projects

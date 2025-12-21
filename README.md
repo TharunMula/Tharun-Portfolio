@@ -7,7 +7,7 @@ I have a strong technical foundation in **Python, SQL, Tableau, Excel, and Power
 
 This repository showcases my **projects, skills, and applied experience** in Data Analytics and Business Intelligence.
 
-📄 My **CV:** in [pdf](https://github.com/TharunMula/Tharun-Portfolio/blob/main/Tharun-CV.pdf.pdf).
+📄 My **CV** in :  [pdf](https://github.com/TharunMula/Tharun-Portfolio/blob/main/Tharun-CV.pdf.pdf).
 
 
 ## Table of Contents
@@ -136,7 +136,7 @@ Provided clear visual insights to support sales strategy and performance optimiz
 
 ---
 
-## Training & Certifications
+## Training&Certifications
 - Business Analytics with Excel (Training)
 - PC DA – Industry Master Class in Data Analytics – Simplilearn
 - Programming Basics and Data Analytics with Python

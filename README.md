@@ -20,7 +20,7 @@ This repository showcases my **projects, skills, and applied experience** in Dat
 
 [Education](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Education)
 
-[Certifications](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Training&Certifications)
+[Training&Certifications](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Training&Certifications)
 
 [Contact](https://github.com/TharunMula/Tharun-Portfolio/blob/main/README.md#Contact)
 

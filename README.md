@@ -175,6 +175,7 @@ Impact: Enabled identification of app characteristics that strongly influence us
 - PC DA – Industry Master Class in Data Analytics – Simplilearn
 - Programming Basics and Data Analytics with Python
 - SQL Training
+- Salesforce Tableau Certified Data Analyst
 
 ---
 

@@ -171,6 +171,8 @@ Impact: Enabled identification of app characteristics that strongly influence us
 ---
 
 ## Training&Certifications
+---
+
 • Business Analytics with excel (May 2025)
 • SQL Course Certification (May 2025)
 • Programing Basics and Data Analytics with Python (June 2025)

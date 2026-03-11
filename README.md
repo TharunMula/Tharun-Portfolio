@@ -159,6 +159,38 @@ Impact: Enabled identification of app characteristics that strongly influence us
 
 ---
 
+**Pension Analytics Dashboard**:-
+A full analytics project where I cleaned pension data using Python, analysed trends with SQL, and built an interactive Power BI dashboard.
+
+Highlights
+11.9K pensioners analysed
+
+£20.95M total pension amount
+
+Regional comparison of pension averages
+
+Pension type breakdown (Defined Benefit vs Defined Contribution)
+
+Retirement trend analysis from 1990–2040
+
+Distribution analysis of monthly pension amounts
+
+**My Contribution**:-
+Cleaned and prepared the dataset using Python
+
+Wrote SQL queries to extract insights and validate patterns
+
+Designed a multi‑page Power BI dashboard with KPIs, charts, and filters
+
+Delivered insights on regional differences, pension types, and long‑term trends
+
+**Skills Demonstrated**:-
+Python • SQL • Power BI • Data Cleaning • Data Modelling • Data Visualisation • Insight Storytelling
+
+**Repository**:-[https://github.com/TharunMula/Pension-Analytics-Project]
+
+---
+
 ## Education
 - **Master of Business Administration (MBA)**  
   University of East London, United Kingdom  

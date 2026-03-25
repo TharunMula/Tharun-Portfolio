@@ -52,7 +52,7 @@ This repository showcases my **projects, skills, and applied experience** in Dat
 
 ### Junior Data Analyst (Intern)  
 **Fortray Global Services Ltd – London, UK**  
-*May 2025 – Present*
+*Aug 2025 – Present*
 
 - Developed **interactive dashboards** using Tableau and Excel to visualize sales, marketing, and operational performance.
 - Conducted **SQL-based analysis** to extract insights and produce structured business reports.
